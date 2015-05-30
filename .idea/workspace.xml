@@ -28,8 +28,8 @@
       <file leaf-file-name="file_exists.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/puppet/parser/functions/file_exists.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.038709678" vertical-offset="0" max-vertical-offset="930">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.09677419" vertical-offset="0" max-vertical-offset="930">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -522,12 +522,12 @@
       <changelist id="a80fddfd-1711-4ff7-b5c9-1396df55ae4e" name="Default" comment="" />
       <created>1432945679154</created>
       <updated>1432945679154</updated>
-      <workItem from="1432945679731" duration="3158000" />
+      <workItem from="1432945679731" duration="3837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3158000" />
+    <option name="totallyTimeSpent" value="3837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -585,8 +585,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/puppet/parser/functions/file_exists.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.038709678" vertical-offset="0" max-vertical-offset="930">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.09677419" vertical-offset="0" max-vertical-offset="930">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
